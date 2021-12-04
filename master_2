@@ -1,0 +1,7 @@
+clear 
+pkg install termimage
+clear
+termimage 20211126_103621.jpg
+
+echo -e "\e[25mMASTER group link \e[5m(you can join) \e[92mhttps://chat.whatsapp.com/CkmqSRkTvaPDCE58GVmYOq"
+play-audio AUD-20211113-WA0071.mp3
